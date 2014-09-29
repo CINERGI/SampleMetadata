@@ -1,0 +1,34 @@
+# Spatial:
+
+## Goal:
+ Validate and enhance location information with keywords
+- translated location to cingergi location
+- associate place keywords with location
+- if needed, extract location from title, abstract
+
+
+## Steps:
+
+## Validations:
+- list
+
+
+## Enhancements:
+
+- Created Linked data references for elements without them. 
+-
+
+
+## Cinergi Object Example:
+[Link to github example](https://raw.githubusercontent.com/usgin/json-metadata/master/ExampleIndexTerms.json#)
+
+```[json]
+
+
+```
+
+## Dublin Core Source:
+
+
+
+## Iso Source:

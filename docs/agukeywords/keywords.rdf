@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns0="http://www.w3.org/2004/02/skos/core#"
+  xmlns:ns1="http://purl.org/dc/terms/">
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0424">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0424</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Biosignatures and proxies</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0408">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0408</ns1:identifier>
+    <ns1:subject xml:lang="en">Benthic processes</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0473">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Paleoclimatology and paleoceanography</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0473</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0305">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0305</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Aerosols and particles</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0416">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0416</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Biogeophysics</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0461">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Metals</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0461</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0498">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">General or miscellaneous</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0498</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0409">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Bioavailability: chemical speciation and complexation</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0409</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0322">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Constituent sources and sinks</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0322</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0419">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Biomineralization</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0419</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0321">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0321</ns1:identifier>
+    <ns1:subject xml:lang="en">Cloud/radiation interaction</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0310">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0310</ns1:identifier>
+    <ns1:subject xml:lang="en">Airglow and aurora</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0400">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0400</ns1:identifier>
+    <ns1:subject xml:lang="en">BIOGEOSCIENCES</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0328">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0328</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Exosphere</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0418">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Bioremediation</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0418</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0325">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Evolution of the atmosphere</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0325</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0465">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0465</ns1:identifier>
+    <ns1:subject xml:lang="en">Microbiology: ecology, physiology and genomics</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0317">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0317</ns1:identifier>
+    <ns1:subject xml:lang="en">Chemical kinetic and photochemical properties</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0454">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0454</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Isotopic composition and chemistry</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0404">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0404</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Anoxic and hypoxic environments</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0478">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Pollution: urban, regional and global</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0478</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0468">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0468</ns1:identifier>
+    <ns1:subject xml:lang="en">Natural hazards</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0458">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0458</ns1:identifier>
+    <ns1:subject xml:lang="en">Limnology</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0319">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Cloud optics</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0319</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0402">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0402</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Agricultural systems</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0452">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Instruments and techniques</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0452</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0491">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0491</ns1:identifier>
+    <ns1:subject xml:lang="en">Food webs and trophodynamics</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0342">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0342</ns1:identifier>
+    <ns1:subject xml:lang="en">Middle atmosphere: energy deposition</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0442">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Estuarine and nearshore processes</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0442</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0406">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0406</ns1:identifier>
+    <ns1:subject xml:lang="en">Astrobiology and extraterrestrial materials</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0426">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0426</ns1:identifier>
+    <ns1:subject xml:lang="en">Biosphere/atmosphere interactions</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0335">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Ion chemistry of the atmosphere</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0335</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0315">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0315</ns1:identifier>
+    <ns1:subject xml:lang="en">Biosphere/atmosphere interactions</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0300">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">ATMOSPHERIC COMPOSITION AND STRUCTURE</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0300</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0460">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0460</ns1:identifier>
+    <ns1:subject xml:lang="en">Marine systems</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0495">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Water/energy interactions</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0495</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0312">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0312</ns1:identifier>
+    <ns1:subject xml:lang="en">Air/sea constituent fluxes</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0459">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0459</ns1:identifier>
+    <ns1:subject xml:lang="en">Macro- and micropaleontology</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0493">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0493</ns1:identifier>
+    <ns1:subject xml:lang="en">Urban systems</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0341">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0341</ns1:identifier>
+    <ns1:subject xml:lang="en">Middle atmosphere: constituent transport and chemistry</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0450">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0450</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Hydrothermal systems</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0330">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0330</ns1:identifier>
+    <ns1:subject xml:lang="en">Geochemical cycles</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0434">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0434</ns1:identifier>
+    <ns1:subject xml:lang="en">Data sets</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0488">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Sulfur cycling</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0488</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0497">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0497</ns1:identifier>
+    <ns1:subject xml:lang="en">Wetlands</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0370">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Volcanic effects</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0370</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0439">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Ecosystems, structure and dynamics</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0439</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0448">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0448</ns1:identifier>
+    <ns1:subject xml:lang="en">Geomicrobiology</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0486">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0486</ns1:identifier>
+    <ns1:subject xml:lang="en">Soils/pedology</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0489">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0489</ns1:identifier>
+    <ns1:subject xml:lang="en">Trace element cycling</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0320">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Cloud physics and chemistry</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0320</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0360">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Radiation: transmission and scattering</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0360</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0343">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Planetary atmospheres</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0343</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0480">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0480</ns1:identifier>
+    <ns1:subject xml:lang="en">Remote sensing</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0444">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Evolutionary geobiology</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0444</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0499">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0499</ns1:identifier>
+    <ns1:subject xml:lang="en">New fields (not classifiable under other headings)</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0368">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0368</ns1:identifier>
+    <ns1:subject xml:lang="en">Troposphere: constituent transport and chemistry</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0410">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0410</ns1:identifier>
+    <ns1:subject xml:lang="en">Biodiversity</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0496">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0496</ns1:identifier>
+    <ns1:subject xml:lang="en">Water quality</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0350">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0350</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Pressure, density, and temperature</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0394">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Instruments and techniques</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0394</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0490">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0490</ns1:identifier>
+    <ns1:subject xml:lang="en">Trace gases</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0428">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Carbon cycling</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0428</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0432">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0432</ns1:identifier>
+    <ns1:subject xml:lang="en">Contaminant and organic biogeochemistry</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0481">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0481</ns1:identifier>
+    <ns1:subject xml:lang="en">Restoration</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0340">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Middle atmosphere: composition and chemistry</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0340</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0399">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">General or miscellaneous</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0399</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0430">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Computational methods and data processing</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0430</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0475">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0475</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Permafrost, cryosphere, and high-latitude processes</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0358">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Thermosphere: energy deposition</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0358</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0466">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Modeling</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0466</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0429">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Climate dynamics</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0429</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0463">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0463</ns1:identifier>
+    <ns1:subject xml:lang="en">Microbe/mineral interactions</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0414">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Biogeochemical cycles, processes, and modeling</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0414</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0485">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Science policy</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0485</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0483">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Riparian systems</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0483</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0422">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0422</ns1:identifier>
+    <ns1:subject xml:lang="en">Bio-optics</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0412">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0412</ns1:identifier>
+    <ns1:subject xml:lang="en">Biogeochemical kinetics and reaction modeling</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0471">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0471</ns1:identifier>
+    <ns1:subject xml:lang="en">Oxidation/reduction reactions</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0355">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:subject xml:lang="en">Thermosphere: composition and chemistry</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0355</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0420">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Biomolecular and chemical tracers</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0420</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0469">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Nitrogen cycling</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0469</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0365">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Troposphere: composition and chemistry</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0365</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0345">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0345</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Pollution: urban and regional</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0456">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Life in extreme environments</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0456</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0438">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0438</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Diel, seasonal, and annual cycles</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0470">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:subject xml:lang="en">Nutrients and nutrient cycling</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0470</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0476">
+    <ns0:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0400"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0476</ns1:identifier>
+    <ns1:subject xml:lang="en">Plant ecology</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0634">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0634</ns1:identifier>
+    <ns1:subject xml:lang="en">Measurement and standards</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0609">
+    <ns1:subject xml:lang="en">Antennas</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0609</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0540">
+    <ns1:subject xml:lang="en">Image processing</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0540</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0550">
+    <ns1:subject xml:lang="en">Model verification and validation</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0550</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0600">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0600</ns1:identifier>
+    <ns1:subject xml:lang="en">ELECTROMAGNETICS</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0535">
+    <ns1:subject xml:lang="en">Hardware solutions</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0535</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0664">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0664</ns1:identifier>
+    <ns1:subject xml:lang="en">Reflectors and feeds</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0669">
+    <ns1:subject xml:lang="en">Scattering and diffraction</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0669</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0555">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0555</ns1:identifier>
+    <ns1:subject xml:lang="en">Neural networks, fuzzy logic, machine learning</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0644">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0644</ns1:identifier>
+    <ns1:subject xml:lang="en">Numerical methods</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0674">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0674</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Signal processing and adaptive antennas</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0560">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0560</ns1:identifier>
+    <ns1:subject xml:lang="en">Numerical solutions</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0700">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">CRYOSPHERE</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0700</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0629">
+    <ns1:subject xml:lang="en">Inverse scattering</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0629</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0545">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0545</ns1:identifier>
+    <ns1:subject xml:lang="en">Modeling</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0614">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0614</ns1:identifier>
+    <ns1:subject xml:lang="en">Biological effects</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0619">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Electromagnetic theory</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0619</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0684">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Transient and time domain</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0684</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0694">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0694</ns1:identifier>
+    <ns1:subject xml:lang="en">Instruments and techniques</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0520">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0520</ns1:identifier>
+    <ns1:subject xml:lang="en">Data analysis: algorithms and implementation</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0654">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Plasmas</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0654</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0699">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0699</ns1:identifier>
+    <ns1:subject xml:lang="en">General or miscellaneous</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0530">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Data presentation and visualization</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0530</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0679">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0679</ns1:identifier>
+    <ns1:subject xml:lang="en">Singularity expansion method</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0639">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0639</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Nonlinear electromagnetics</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0604">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0604</ns1:identifier>
+    <ns1:subject xml:lang="en">Antenna arrays</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0649">
+    <ns1:subject xml:lang="en">Optics</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0649</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0515">
+    <ns1:subject xml:lang="en">Cellular automata</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0515</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0525">
+    <ns1:subject xml:lang="en">Data management</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0525</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0594">
+    <ns1:subject xml:lang="en">Instruments and techniques</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0594</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0599">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0599</ns1:identifier>
+    <ns1:subject xml:lang="en">General or miscellaneous</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0702">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0702</ns1:identifier>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Permafrost</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0624">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0624</ns1:identifier>
+    <ns1:subject xml:lang="en">Guided waves</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0659">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:subject xml:lang="en">Random media and rough surfaces</ns1:subject>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0659</ns1:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0689">
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0689</ns1:identifier>
+    <ns1:subject xml:lang="en">Wave propagation</ns1:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0500">
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0500</ns1:identifier>
+    <ns1:subject xml:lang="en">COMPUTATIONAL GEOPHYSICS</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0510">
+    <ns1:subject xml:lang="en">Agent-based models</ns1:subject>
+    <rdf:type rdf:resource="http://swrc.ontoware.org/ontology#ResearchTopic"/>
+    <ns1:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0510</ns1:identifier>
+  </rdf:Description>
+
+</rdf:RDF>

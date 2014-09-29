@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:ns0="http://purl.org/dc/terms/"
+  xmlns:ns1="http://www.w3.org/2004/02/skos/core#">
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0368">
+    <ns0:subject xml:lang="en">Troposphere: constituent transport and chemistry</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0368</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0305">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">Aerosols and particles</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0305</ns0:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0355">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0355</ns0:identifier>
+    <ns0:subject xml:lang="en">Thermosphere: composition and chemistry</ns0:subject>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0310">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0310</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">Airglow and aurora</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0330">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0330</ns0:identifier>
+    <ns0:subject xml:lang="en">Geochemical cycles</ns0:subject>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0315">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0315</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">Biosphere/atmosphere interactions</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0322">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">Constituent sources and sinks</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0322</ns0:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0321">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0321</ns0:identifier>
+    <ns0:subject xml:lang="en">Cloud/radiation interaction</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0325">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">Evolution of the atmosphere</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0325</ns0:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0328">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0328</ns0:identifier>
+    <ns0:subject xml:lang="en">Exosphere</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0394">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0394</ns0:identifier>
+    <ns0:subject xml:lang="en">Instruments and techniques</ns0:subject>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0317">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0317</ns0:identifier>
+    <ns0:subject xml:lang="en">Chemical kinetic and photochemical properties</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0342">
+    <ns0:subject xml:lang="en">Middle atmosphere: energy deposition</ns0:subject>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0342</ns0:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0319">
+    <ns0:subject xml:lang="en">Cloud optics</ns0:subject>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0319</ns0:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0312">
+    <ns0:subject xml:lang="en">Air/sea constituent fluxes</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0312</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0350">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0350</ns0:identifier>
+    <ns0:subject xml:lang="en">Pressure, density, and temperature</ns0:subject>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0320">
+    <ns0:subject xml:lang="en">Cloud physics and chemistry</ns0:subject>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0320</ns0:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0360">
+    <ns0:subject xml:lang="en">Radiation: transmission and scattering</ns0:subject>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0360</ns0:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0335">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0335</ns0:identifier>
+    <ns0:subject xml:lang="en">Ion chemistry of the atmosphere</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0341">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0341</ns0:identifier>
+    <ns0:subject xml:lang="en">Middle atmosphere: constituent transport and chemistry</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0399">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0399</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">General or miscellaneous</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0358">
+    <ns0:subject xml:lang="en">Thermosphere: energy deposition</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0358</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0370">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0370</ns0:identifier>
+    <ns0:subject xml:lang="en">Volcanic effects</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0365">
+    <ns0:subject xml:lang="en">Troposphere: composition and chemistry</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0365</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0345">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0345</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">Pollution: urban and regional</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0343">
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">Planetary atmospheres</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0343</ns0:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0340">
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0340</ns0:identifier>
+    <ns1:broadMatch rdf:resource="http://abstracts.agu.org/keywords/0300"/>
+    <ns0:subject xml:lang="en">Middle atmosphere: composition and chemistry</ns0:subject>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://abstracts.agu.org/keywords/0300">
+    <ns0:subject xml:lang="en">ATMOSPHERIC COMPOSITION AND STRUCTURE</ns0:subject>
+    <ns0:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0300</ns0:identifier>
+  </rdf:Description>
+
+</rdf:RDF>
