@@ -1,0 +1,67 @@
+{"cmd:CINERGI_MetadataObject": {
+    "cmd:CINERGI_ID": "undefined",
+    "cmd:HarvestInformation": {},
+    "cmd:originalHarvestedDoc": {},
+    "cmd:processingStatus": {},
+    "cmd:metadataProperties": {
+        "cmd:metadataContact": {
+            "cmd:relatedAgent": {
+                "cmd:agentRole": {
+                    "cmd:agentRoleURI": "undefined",
+                    "cmd:agentRoleLabel": "pointOfContact"
+                },
+                "cmd:organizationURI": "undefined",
+                "cmd:contactAddress": "Lancaster Environment Centre,  Library Avenue, Bailrigg Lancaster Lancashire LA1 4AP"
+            },
+            "cmd:individual": {
+                "cmd:PersonURI": "undefined",
+                "cmd:personName": "No Name Was Given",
+                "cmd:personPosition": "No Position Was Given"
+            },
+            "cmd:organizationName": {
+                "cmd:organizationName": ["Centre for Ecology&amp;Hydrology"]
+            },
+            "cmd:phoneNumber": "No Phone Number Was Given",
+            "cmd:contactEmail": ["enquiries@ceh.ac.uk"]
+        },
+        "cmd:metadataUpdate": "2012-10-15"
+    },
+    "cmd:resourceDescription": {
+        "cmd:resourceTitle": "Candidate exemplar well-encoded dataset",
+        "cmd:resourceDescription": "This test record should pass XSD, ISO19139 Schematron, and GEMINI2.1 Schematron validation. Please note that this record is only for testing software and encoding of XML - it is not an example of a well-described dataset, and must not be used as an example of how to document data! This record is part of the series with UUID d2bb041c-54c0-4808-bba8-268f474a9b37 catalogues that enable Metadata Parent Identifier can exploit that element to navigate between series and dataset.",
+        "cmd:resourceURI": [
+            {
+                "cmd:citationIdentifier": null
+            }
+        ],
+        "cmd:geographicExtent": {
+            "cmd:extentLabel": "89,-89,179,-179",
+            "cmd:boundingBoxWGS84": {
+                "cmd:northBoundLatitude": 89,
+                "cmd:southBoundLatitude": -89,
+                "cmd:eastBoundLongitude": 179,
+                "cmd:westBoundLongitude": -179
+            }
+        },
+        "cmd:resourceTemporalExtent": {
+            "temporalExtentBegin": null,
+            "temporalExtentEnd": null
+        },
+        "cmd:resourceUsageConstraints": [
+            {
+                "cmd:constraintStatement": "Licence terms and conditions apply"
+            },
+            {}
+        ],
+        "cmd:resourceAccessOptions": {
+            "cmd:accessLinks": [
+                [],
+                [],
+                [],
+                [],
+                []
+            ]
+        }
+    },
+    "cmd:extras": {}
+}}

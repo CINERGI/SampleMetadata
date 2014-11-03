@@ -1,0 +1,64 @@
+{"cmd:CINERGI_MetadataObject": {
+    "cmd:CINERGI_ID": "undefined",
+    "cmd:HarvestInformation": {},
+    "cmd:originalHarvestedDoc": {},
+    "cmd:processingStatus": {},
+    "cmd:metadataProperties": {
+        "cmd:metadataContact": {
+            "cmd:relatedAgent": {
+                "cmd:agentRole": {
+                    "cmd:agentRoleURI": "undefined",
+                    "cmd:agentRoleLabel": "pointOfContact"
+                },
+                "cmd:organizationURI": "undefined",
+                "cmd:contactAddress": "Lancaster Environment Centre,  Library Avenue, Bailrigg Lancaster Lancashire LA1 4AP"
+            },
+            "cmd:individual": {
+                "cmd:PersonURI": "undefined",
+                "cmd:personName": "No Name Was Given",
+                "cmd:personPosition": "No Position Was Given"
+            },
+            "cmd:organizationName": {
+                "cmd:organizationName": ["Centre for Ecology&amp;Hydrology"]
+            },
+            "cmd:phoneNumber": "No Phone Number Was Given",
+            "cmd:contactEmail": ["enquiries@ceh.ac.uk"]
+        },
+        "cmd:metadataUpdate": "2012-10-15"
+    },
+    "cmd:resourceDescription": {
+        "cmd:resourceTitle": "Candidate exemplar well-encoded service",
+        "cmd:resourceDescription": "This test record should pass XSD, ISO19139 Schematron, and GEMINI2.1 Schematron validation. Please note that this record is only for testing software and encoding of XML - it is not an example of a well-described service, and must not be used as an example of how to document services! The record is  tightly coupled to the dataset CEH:EIDC:1300392329603 using both INSPIRE schema-valid coupling and UK GEMINI2.1 coupling methods.",
+        "cmd:resourceURI": [
+            {
+                "cmd:citationIdentifier": null
+            }
+        ],
+        "cmd:geographicExtent": {
+            "cmd:extentLabel": "60.85,49.84,2.69,-9.23",
+            "cmd:boundingBoxWGS84": {
+                "cmd:northBoundLatitude": 60.85,
+                "cmd:southBoundLatitude": 49.84,
+                "cmd:eastBoundLongitude": 2.69,
+                "cmd:westBoundLongitude": -9.23
+            }
+        },
+        "cmd:resourceTemporalExtent": {
+            "temporalExtentBegin": null,
+            "temporalExtentEnd": null
+        },
+        "cmd:resourceUsageConstraints": [
+            {
+                "cmd:constraintStatement": "This Web Mapping Service is made available for use subject to the Terms and Conditions of the CEH Information Gateway &amp;&#35;40;https://gateway.ceh.ac.uk/disclaimer&#41;.The following acknowledgements and copyright notices &amp;&#35;40;where applicable&#41;, shall, unless otherwise stated, be used on all copies of the Web Map Service, publications and reports, including but not limited to, use in presentations to any audience.LCM2007 © and database right NERC &amp;&#35;40;CEH&#41; 2011. All rights reserved. Contains Ordnance Survey data © Crown copyright and database right 2007.Geographical area - AcknowledgementsThe following datasets have been used in the derivation of LCM2007 25m raster and LCM2007 1km Dominant Coverage and LCM2007 1km Percent of Total Coverage:GB - Landsat-TM5 satellite imagery ©&amp;lt;Satellite/Ground station operator&amp;gt;2007. Distributed by Eurimage.GB - IRS-LISS3 satellite imagery supplied by European Space Agency © Euromap, Space Imaging and Antrix Corporation Limited.GB - SPOT-4 and SPOT-5 satellite imagery supplied by European Space Agency © Spot Image and Centre National D’Etudes Spatiales &amp;&#35;40;CNES&#41;.GB - AWIFS satellite imagery © Antrix Corporation Limited, distributed by Euromap.GB - Contains Ordnance Survey mapping data © Crown copyright and database right 2007.GB - Digital elevation data © Intermap Technologies Inc. or its suppliers 2003.England and Wales - Soils data for England and Wales © Cranfield University &amp;&#35;40;NSRI&#41; and for the Controller of HMSO. 2011.England and Wales - Office for National Statistics data © Crown Copyright and database right. Contains Ordnance Survey data © Crown copyright and database right 2001.England\t - Boundaries from Rural Payments Agency © Crown copyright and database right and/or © third party licensors.Wales - Boundaries from Welsh Government, Department of Rural Affairs © Crown Copyright and database right and/or © third  party licensors.Scotland - Boundaries from Scottish Government © Crown Copyright and database right and/or © third party licensors.Scotland - SSKIB derived pH for &quot;semi-natural\" soils for upper horizon for dominant soil © The James Hutton Institute 2010.Scotland - Land Cover of Scotland dataset, Crown Copyright 1992. It shall not be reproduced in any form whatever without the permission of The Controller of Her Majesty’s Stationery Office. Reproduced from OS Pathfinder Series with the permission of the Controller of HMSO. © Crown copyright 1992.Scotland - Scottish Government boundaries © Crown Copyright and database right and/or © third party licensors 2004.  All rights reserved.The following copyright notice should be placed on all copies of information or images derived from the Web Service:[Information] or [Images] based upon LCM2007 © NERC &amp;&#35;40;CEH&#41; 2011. Contains Ordnance Survey data © Crown Copyright 2007. © third party licensors."
+            },
+            {}
+        ],
+        "cmd:resourceAccessOptions": {
+            "cmd:accessLinks": [
+                [],
+                []
+            ]
+        }
+    },
+    "cmd:extras": {}
+}}

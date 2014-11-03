@@ -1,0 +1,171 @@
+{"cmd:CINERGI_MetadataObject": {
+    "cmd:CINERGI_ID": "undefined",
+    "cmd:HarvestInformation": {},
+    "cmd:originalHarvestedDoc": {},
+    "cmd:processingStatus": {},
+    "cmd:metadataProperties": {
+        "cmd:metadataContact": {
+            "cmd:relatedAgent": {
+                "cmd:agentRole": {
+                    "cmd:agentRoleURI": "undefined",
+                    "cmd:agentRoleLabel": "pointOfContact"
+                },
+                "cmd:organizationURI": "undefined",
+                "cmd:contactAddress": "No Street Address Was Given No City Was Given No State Was Given No Zip Was Given"
+            },
+            "cmd:individual": {
+                "cmd:PersonURI": "undefined",
+                "cmd:personName": "No Name Was Given",
+                "cmd:personPosition": "No Position Was Given"
+            },
+            "cmd:organizationName": {
+                "cmd:organizationName": ["Sierra Critical Zone Observatory"]
+            },
+            "cmd:phoneNumber": "No Phone Number Was Given",
+            "cmd:contactEmail": ["xmeng@ucmerced.edu", "rbales@ucmerced.edu"]
+        },
+        "cmd:metadataUpdate": "2014-09-14"
+    },
+    "cmd:resourceDescription": {
+        "cmd:resourceTitle": "Providence, Upper Met, South aspect - Soil Moisture, Soil Temperature, Snow Depth, Air Temperature &amp;&#35;40;2008-2012&#41;",
+        "cmd:resourceDescription": "Snow depth, soil moisture and soil temperature are measured at the upper Providence meteorological site, from a location with a south facing aspect, using a Campbell Scientific logger to control peripheral devices. Snow depth is measured at 5 nodes in the open, at the drip edge and under canopies of an incense-cedar and white fir tree. Soil moisture and temperature are measured at 10, 30, 60, and 90 cm depths coincident with the snow depth nodes. A 10 watt solar panel provides power for monitoring at 10 minute intervals. Data processing compresses to hourly values. The upper Providence meteorological site &amp;&#35;40;approximately 1980 m&#41; is located within the Providence subcatchment P303. \t\t\t\tCOMMENTS: Soil volumetric water content (VWC) and soil temperature measured using Decagon Devices ECHO-TM at depths of 10, 30, 60, an 90 cm below the mineral soil surface. Sensor now equivalent to 5TM, http://www.decagon.com/soil-moisture-sensors/Distance to snow/soil surface and air temperature measured with Judd Communications ultrasonic depth sensor, using analog control. http://www.juddcom.com/Data control and storage on Campbell Scientific CR1000 datalogger, using AM16/32B multiplexer. http://www.campbellsci.comProgram for data acquisition are located on UC Merced-SNRI digital library. https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/Flat_Cluster/Programs",
+        "cmd:resourceURI": [
+            {
+                "cmd:citationIdentifier": "http://criticalzone.org/national/data/dataset/2596"
+            }
+        ],
+        "cmd:geographicExtent": {
+            "cmd:extentLabel": "37.0607723233,37.0607723233,-119.183602312,-119.183602312",
+            "cmd:boundingBoxWGS84": {
+                "cmd:northBoundLatitude": 37.0607723233,
+                "cmd:southBoundLatitude": 37.0607723233,
+                "cmd:eastBoundLongitude": -119.183602312,
+                "cmd:westBoundLongitude": -119.183602312
+            }
+        },
+        "cmd:resourceTemporalExtent": {
+            "temporalExtentBegin": "2008-10-01",
+            "temporalExtentEnd": "2012-09-30"
+        },
+        "cmd:resourceUsageConstraints": [],
+        "cmd:resourceAccessOptions": {
+            "cmd:accessLinks": [
+                [
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "http://criticalzone.org/national/data/dataset/2596/",
+                            "cmd:linkDescription": "CZO Dataset &amp;&#35;40;aggregate&#41;",
+                            "cmd:linkTitle": "Providence, Upper Met, South aspect - Soil Moisture, Soil Temperature, Snow Depth, Air Temperature &amp;&#35;40;2008-2012&#41;"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2008.dat",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2008, 30 min, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2009.dat",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2009, 30 min, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2010.dat",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2010, 30 min, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_soil_snow_wy2011.dat",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2011, 30 min, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_soil_snow_wy2012.dat",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2012, 30 min, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2008_UpMetS_Soil_Snow_hourly.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2008, hourly, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2009_UpMetS_Soil_Snow_hourly.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2009, hourly, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2010_UpMetS_soil_snow_hourly.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2010, hourly, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2011_UpMetS_soil_snow_hourly.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2011, hourly, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2012_UpMetS_soil_snow_hourly.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2012, hourly, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2008_UpMetS_Soil_snow_daily.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2008, daily, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2009_UpMetS_Soil_snow_daily.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2009, daily, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2010_UpMetS_soil_snow_daily.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2010, daily, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2011_UpMetS_soil_snow_daily.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2011, daily, gap-filled"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2012_UpMetS_soil_snow_daily.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "South facing-WY 2012, daily, gap-filled"
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    "cmd:extras": {}
+}}

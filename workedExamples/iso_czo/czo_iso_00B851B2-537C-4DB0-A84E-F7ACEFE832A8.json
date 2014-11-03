@@ -1,0 +1,94 @@
+{"cmd:CINERGI_MetadataObject": {
+    "cmd:CINERGI_ID": "undefined",
+    "cmd:HarvestInformation": {},
+    "cmd:originalHarvestedDoc": {},
+    "cmd:processingStatus": {},
+    "cmd:metadataProperties": {
+        "cmd:metadataContact": {
+            "cmd:relatedAgent": {
+                "cmd:agentRole": {
+                    "cmd:agentRoleURI": "undefined",
+                    "cmd:agentRoleLabel": "pointOfContact"
+                },
+                "cmd:organizationURI": "undefined",
+                "cmd:contactAddress": "No Street Address Was Given No City Was Given No State Was Given No Zip Was Given"
+            },
+            "cmd:individual": {
+                "cmd:PersonURI": "undefined",
+                "cmd:personName": "No Name Was Given",
+                "cmd:personPosition": "No Position Was Given"
+            },
+            "cmd:organizationName": {
+                "cmd:organizationName": ["Luquillo Critical Zone Observatory"]
+            },
+            "cmd:phoneNumber": "No Phone Number Was Given",
+            "cmd:contactEmail": ["leonmi@sas.upenn.edu", "brantley@essc.psu.edu", "stevef@guero.sr.unh.edu"]
+        },
+        "cmd:metadataUpdate": "2014-09-18"
+    },
+    "cmd:resourceDescription": {
+        "cmd:resourceTitle": "Icacos/Blanco watersheds - Groundwater Chemistry, Groundwater Depth &amp;&#35;40;2014&#41;",
+        "cmd:resourceDescription": "Hach Hydrolabs \t\t\t\tA sample of data from three groundwater monitoring locations in the Icacos / Rio Blanco watershed are included here. Requests for a complete dataset will be considered, please email leonmi@sas.upenn.edu with an explanation of what you would like to do with the data. A complete dataset will be released to the public at a later date. \t\t\t\t \t\t\t\tDATE RANGE COMMENTS: Collection ongoing",
+        "cmd:resourceURI": [
+            {
+                "cmd:citationIdentifier": "http://criticalzone.org/national/data/dataset/3642"
+            }
+        ],
+        "cmd:geographicExtent": {
+            "cmd:extentLabel": "18.29241,18.275085,-65.785928,-65.78885",
+            "cmd:boundingBoxWGS84": {
+                "cmd:northBoundLatitude": 18.29241,
+                "cmd:southBoundLatitude": 18.275085,
+                "cmd:eastBoundLongitude": -65.785928,
+                "cmd:westBoundLongitude": -65.78885
+            }
+        },
+        "cmd:resourceTemporalExtent": {
+            "temporalExtentBegin": "2014-03-09",
+            "temporalExtentEnd": "2014-06-16"
+        },
+        "cmd:resourceUsageConstraints": [],
+        "cmd:resourceAccessOptions": {
+            "cmd:accessLinks": [
+                [
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "http://criticalzone.org/national/data/dataset/3642/",
+                            "cmd:linkDescription": "CZO Dataset &amp;&#35;40;aggregate&#41;",
+                            "cmd:linkTitle": "Icacos/Blanco watersheds - Groundwater Chemistry, Groundwater Depth &amp;&#35;40;2014&#41;"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I-03Hydrolab.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "Icacos\\Blanco I-3-Groundwater chemistry"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I-09Hydrolab.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "Icacos\\Blanco I-9-Groundwater chemistry"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I-10Hydrolab.csv",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "Icacos\\Blanco I-10-Groundwater chemistry"
+                        }
+                    },
+                    {
+                        "cmd:LinkObject": {
+                            "cmd:url": "http://www.sas.upenn.edu/lczodata/content/icacos-groundwater-monitoring",
+                            "cmd:linkDescription": "CZO Dataset Component",
+                            "cmd:linkTitle": "Icacos\\Blanco-Groundwater chemistry graphs"
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    "cmd:extras": {}
+}}

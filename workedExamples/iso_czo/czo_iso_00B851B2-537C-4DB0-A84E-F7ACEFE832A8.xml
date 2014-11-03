@@ -1,1 +1,525 @@
-<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink">	<gmd:fileIdentifier>		<gco:CharacterString>{25571de7-6505-398b-adab-de795b6878ce}</gco:CharacterString>	</gmd:fileIdentifier>	<gmd:language>		<gco:CharacterString>en</gco:CharacterString>	</gmd:language>	<gmd:hierarchyLevel>		<gmd:MD_ScopeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>	</gmd:hierarchyLevel>	<gmd:contact>		<gmd:CI_ResponsibleParty>			<gmd:organisationName>				<gco:CharacterString>Luquillo Critical Zone Observatory </gco:CharacterString>			</gmd:organisationName>			<gmd:contactInfo>				<gmd:CI_Contact>					<gmd:address>						<gmd:CI_Address>							<gmd:electronicMailAddress>								<gco:CharacterString>leonmi@sas.upenn.edu</gco:CharacterString>							</gmd:electronicMailAddress>							<gmd:electronicMailAddress>								<gco:CharacterString>brantley@essc.psu.edu</gco:CharacterString>							</gmd:electronicMailAddress>														<gmd:electronicMailAddress>								<gco:CharacterString>stevef@guero.sr.unh.edu</gco:CharacterString>							</gmd:electronicMailAddress>						</gmd:CI_Address>					</gmd:address>				</gmd:CI_Contact>			</gmd:contactInfo>			<gmd:role>				<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>			</gmd:role>		</gmd:CI_ResponsibleParty>	</gmd:contact>	<gmd:dateStamp>		<gco:Date>2014-09-18</gco:Date>	</gmd:dateStamp>	<gmd:metadataStandardName>		<gco:CharacterString>ISO 19139/19115 Metadata for Datasets</gco:CharacterString>	</gmd:metadataStandardName>	<gmd:metadataStandardVersion>		<gco:CharacterString>2003</gco:CharacterString>	</gmd:metadataStandardVersion>	<gmd:dataSetURI>		<gco:CharacterString>http://criticalzone.org/national/data/dataset/3642</gco:CharacterString>	</gmd:dataSetURI>	<gmd:referenceSystemInfo>		<gmd:MD_ReferenceSystem>			<gmd:referenceSystemIdentifier>				<gmd:RS_Identifier>					<gmd:code>						<gco:CharacterString>4326</gco:CharacterString>					</gmd:code>				</gmd:RS_Identifier>			</gmd:referenceSystemIdentifier>		</gmd:MD_ReferenceSystem>	</gmd:referenceSystemInfo>	<gmd:identificationInfo>		<gmd:MD_DataIdentification>			<gmd:citation>				<gmd:CI_Citation>					<gmd:title>						<gco:CharacterString>Icacos/Blanco watersheds - Groundwater Chemistry, Groundwater Depth (2014)</gco:CharacterString>					</gmd:title>										<gmd:date>						<gmd:CI_Date>							<gmd:date>								<gco:Date>2014-09-18</gco:Date>							</gmd:date>							<gmd:dateType>								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>							</gmd:dateType>						</gmd:CI_Date>					</gmd:date>										<gmd:date>						<gmd:CI_Date>							<gmd:date>								<gco:Date>2014-09-18</gco:Date>							</gmd:date>							<gmd:dateType>								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>							</gmd:dateType>						</gmd:CI_Date>					</gmd:date>					<gmd:date>						<gmd:CI_Date>							<gmd:date>								<gco:Date>2014-06-16</gco:Date>							</gmd:date>							<gmd:dateType>								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>							</gmd:dateType>						</gmd:CI_Date>					</gmd:date>																														<gmd:otherCitationDetails>						<gco:CharacterString>McDowell W.H., Brereton R. Icacos/Blanco ground water chemistry data. Luquillo&#45;CZO. 2014.</gco:CharacterString>					</gmd:otherCitationDetails>									</gmd:CI_Citation>			</gmd:citation>			<gmd:abstract>				<gco:CharacterString>								 Hach Hydrolabs 				A sample of data from three groundwater monitoring locations in the Icacos / Rio Blanco watershed are included here. Requests for a complete dataset will be considered, please email leonmi@sas.upenn.edu with an explanation of what you would like to do with the data. A complete dataset will be released to the public at a later date. 				 				DATE RANGE COMMENTS: Collection ongoing 								 				 </gco:CharacterString>			</gmd:abstract>						<gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Bill McDowell, Rich Brereton</gco:CharacterString>					</gmd:individualName>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact>			<gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>William  McDowell</gco:CharacterString>					</gmd:individualName>					<gmd:organisationName>						<gco:CharacterString>Luquillo Critical Zone Observatory</gco:CharacterString>					</gmd:organisationName>					<gmd:positionName>						<gco:CharacterString>INVESTIGATOR. </gco:CharacterString>					</gmd:positionName>					<gmd:contactInfo>						<gmd:CI_Contact>														<gmd:address>								<gmd:CI_Address>																											<gmd:electronicMailAddress>										<gco:CharacterString>Bill.McDowell@unh.edu</gco:CharacterString>									</gmd:electronicMailAddress>								</gmd:CI_Address> 							</gmd:address>						</gmd:CI_Contact>					</gmd:contactInfo>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact><gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Rich  Brereton</gco:CharacterString>					</gmd:individualName>					<gmd:organisationName>						<gco:CharacterString>Luquillo Critical Zone Observatory</gco:CharacterString>					</gmd:organisationName>					<gmd:positionName>						<gco:CharacterString>GRAD STUDENT. </gco:CharacterString>					</gmd:positionName>					<gmd:contactInfo>						<gmd:CI_Contact>														<gmd:address>								<gmd:CI_Address>																											<gmd:electronicMailAddress>										<gco:CharacterString>rich.brereton@unh.edu</gco:CharacterString>									</gmd:electronicMailAddress>								</gmd:CI_Address> 							</gmd:address>						</gmd:CI_Contact>					</gmd:contactInfo>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact><gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Geoff Schwaner</gco:CharacterString>					</gmd:individualName>					<gmd:organisationName>						<gco:CharacterString>Luquillo Critical Zone Observatory</gco:CharacterString>					</gmd:organisationName>					<gmd:positionName>						<gco:CharacterString>STAFF. Field Technician</gco:CharacterString>					</gmd:positionName>					<gmd:contactInfo>						<gmd:CI_Contact>														<gmd:address>								<gmd:CI_Address>																											<gmd:electronicMailAddress>										<gco:CharacterString>gwj4@wildcats.unh.edu</gco:CharacterString>									</gmd:electronicMailAddress>								</gmd:CI_Address> 							</gmd:address>						</gmd:CI_Contact>					</gmd:contactInfo>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact>			<gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Miguel Leon; leonmi@sas.upenn.edu</gco:CharacterString>					</gmd:individualName>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact>			<gmd:descriptiveKeywords>				<gmd:MD_Keywords>					<gmd:keyword>						<gco:CharacterString>Hydrology</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Water Chemistry</gco:CharacterString>					</gmd:keyword>										<gmd:type>						<gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="discipline">discipline</gmd:MD_KeywordTypeCode>					</gmd:type>				</gmd:MD_Keywords>			</gmd:descriptiveKeywords>			<gmd:descriptiveKeywords>				<gmd:MD_Keywords>					<gmd:keyword>						<gco:CharacterString>Groundwater</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>well</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Temperature</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>pH</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Specific Conductance</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Groundwater Depth</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>LDO%</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>LDO</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>BP</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Nitrate</gco:CharacterString>					</gmd:keyword>																							<gmd:keyword>						<gco:CharacterString>Groundwater Chemistry</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Groundwater Depth</gco:CharacterString>					</gmd:keyword>										<gmd:type>						<gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>					</gmd:type>				</gmd:MD_Keywords>			</gmd:descriptiveKeywords>				<gmd:descriptiveKeywords>				<gmd:MD_Keywords>					<gmd:keyword>						<gco:CharacterString>Temperature</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>pH</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Specific Conductance</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Groundwater Depth</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>LDO%</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>LDO</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>BP</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Nitrate</gco:CharacterString>					</gmd:keyword>										<gmd:type>						<gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>					</gmd:type>				</gmd:MD_Keywords>			</gmd:descriptiveKeywords>						<gmd:descriptiveKeywords>				<gmd:MD_Keywords>					<gmd:keyword>						<gco:CharacterString>Icacos/Blanco watersheds</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Rio Blanco</gco:CharacterString>					</gmd:keyword>										<gmd:type>						<gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place">place</gmd:MD_KeywordTypeCode>					</gmd:type>				</gmd:MD_Keywords>			</gmd:descriptiveKeywords>								<gmd:resourceConstraints>				<gmd:MD_LegalConstraints>					<gmd:otherConstraints>						<gco:CharacterString> CZO DATA USE POLICY.  DRAFT v.0.3.5. SUMMARY VERSION.  For full details, see http://criticalzone.org/national/data/access-czo-data-1national/  (1) USE OUR DATA FREELY. All CZO Data Products, except those labelled "Private", are released to the public and may be freely used under the condition that you give acknowledgement. Non-CZO data products — like those produced by USGS or NOAA — have their own use policies, which should be followed. (2) GIVE PROPER ACKNOWLEDGEMENT. Publications, models and data products that make use of these datasets must include proper acknowledgement. (3) LET US KNOW HOW YOU WILL USE THE DATA. The dataset creators would appreciate hearing of any plans to use the dataset.						</gco:CharacterString>					</gmd:otherConstraints>				</gmd:MD_LegalConstraints>			</gmd:resourceConstraints>			<gmd:language>				<gco:CharacterString>en</gco:CharacterString>			</gmd:language>			<gmd:topicCategory>				<gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>			</gmd:topicCategory>			<gmd:extent>				<gmd:EX_Extent>					<gmd:geographicElement>						<gmd:EX_GeographicBoundingBox>							<gmd:westBoundLongitude>								<gco:Decimal>-65.78885</gco:Decimal>							</gmd:westBoundLongitude>							<gmd:eastBoundLongitude>								<gco:Decimal>-65.785928</gco:Decimal>							</gmd:eastBoundLongitude>							<gmd:southBoundLatitude>								<gco:Decimal>18.275085 </gco:Decimal>							</gmd:southBoundLatitude>							<gmd:northBoundLatitude>								<gco:Decimal>18.29241 </gco:Decimal>							</gmd:northBoundLatitude>						</gmd:EX_GeographicBoundingBox>					</gmd:geographicElement>					<gmd:temporalElement>						<gmd:EX_TemporalExtent>							<gmd:extent>								<gml:TimePeriod gml:id="Temporal">									<gml:beginPosition>2014-03-09</gml:beginPosition>									<gml:endPosition>2014-06-16</gml:endPosition>								</gml:TimePeriod>							</gmd:extent>						</gmd:EX_TemporalExtent>					</gmd:temporalElement>				</gmd:EX_Extent>			</gmd:extent>					</gmd:MD_DataIdentification>	</gmd:identificationInfo>	<gmd:distributionInfo>		<gmd:MD_Distribution>			<gmd:transferOptions>				<gmd:MD_DigitalTransferOptions>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>http://criticalzone.org/national/data/dataset/3642/</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>Icacos/Blanco watersheds - Groundwater Chemistry, Groundwater Depth (2014)</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset (aggregate)</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I&#45;03Hydrolab.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>Icacos\Blanco I&#45;3 &#45; Groundwater chemistry</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I&#45;09Hydrolab.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>Icacos\Blanco I&#45;9 &#45; Groundwater chemistry</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I&#45;10Hydrolab.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>Icacos\Blanco I&#45;10 &#45; Groundwater chemistry</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>http://www.sas.upenn.edu/lczodata/content/icacos&#45;groundwater&#45;monitoring</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>Icacos\Blanco &#45; Groundwater chemistry graphs</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>																																		</gmd:MD_DigitalTransferOptions>			</gmd:transferOptions>		</gmd:MD_Distribution>	</gmd:distributionInfo>		</gmd:MD_Metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco"
+                 xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2"
+                 xmlns:xlink="http://www.w3.org/1999/xlink">
+    <gmd:fileIdentifier>
+        <gco:CharacterString>{25571de7-6505-398b-adab-de795b6878ce}</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+        <gco:CharacterString>en</gco:CharacterString>
+    </gmd:language>
+    <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeSpace="ISOTC211/19115"
+                          codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+                          codeListValue="dataset">dataset
+        </gmd:MD_ScopeCode>
+    </gmd:hierarchyLevel>
+    <gmd:contact>
+        <gmd:CI_ResponsibleParty>
+            <gmd:organisationName>
+                <gco:CharacterString>Luquillo Critical Zone Observatory</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:contactInfo>
+                <gmd:CI_Contact>
+                    <gmd:address>
+                        <gmd:CI_Address>
+                            <gmd:electronicMailAddress>
+                                <gco:CharacterString>leonmi@sas.upenn.edu</gco:CharacterString>
+                            </gmd:electronicMailAddress>
+                            <gmd:electronicMailAddress>
+                                <gco:CharacterString>brantley@essc.psu.edu</gco:CharacterString>
+                            </gmd:electronicMailAddress>
+                            <gmd:electronicMailAddress>
+                                <gco:CharacterString>stevef@guero.sr.unh.edu</gco:CharacterString>
+                            </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                    </gmd:address>
+                </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+                <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                 codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                 codeListValue="pointOfContact">pointOfContact
+                </gmd:CI_RoleCode>
+            </gmd:role>
+        </gmd:CI_ResponsibleParty>
+    </gmd:contact>
+    <gmd:dateStamp>
+        <gco:Date>2014-09-18</gco:Date>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+        <gco:CharacterString>ISO 19139/19115 Metadata for Datasets</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+        <gco:CharacterString>2003</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:dataSetURI>
+        <gco:CharacterString>http://criticalzone.org/national/data/dataset/3642</gco:CharacterString>
+    </gmd:dataSetURI>
+    <gmd:referenceSystemInfo>
+        <gmd:MD_ReferenceSystem>
+            <gmd:referenceSystemIdentifier>
+                <gmd:RS_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>4326</gco:CharacterString>
+                    </gmd:code>
+                </gmd:RS_Identifier>
+            </gmd:referenceSystemIdentifier>
+        </gmd:MD_ReferenceSystem>
+    </gmd:referenceSystemInfo>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:title>
+                        <gco:CharacterString>Icacos/Blanco watersheds - Groundwater Chemistry, Groundwater Depth
+                            (2014)
+                        </gco:CharacterString>
+                    </gmd:title>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2014-09-18</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeSpace="ISOTC211/19115"
+                                                     codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+                                                     codeListValue="publication">publication
+                                </gmd:CI_DateTypeCode>
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2014-09-18</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeSpace="ISOTC211/19115"
+                                                     codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+                                                     codeListValue="revision">revision
+                                </gmd:CI_DateTypeCode>
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2014-06-16</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeSpace="ISOTC211/19115"
+                                                     codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+                                                     codeListValue="creation">creation
+                                </gmd:CI_DateTypeCode>
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>McDowell W.H., Brereton R. Icacos/Blanco ground water chemistry data.
+                            Luquillo&#45;CZO. 2014.
+                        </gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:abstract>
+                <gco:CharacterString>Hach Hydrolabs A sample of data from three groundwater monitoring locations in the
+                    Icacos / Rio Blanco watershed are included here. Requests for a complete dataset will be considered,
+                    please email leonmi@sas.upenn.edu with an explanation of what you would like to do with the data. A
+                    complete dataset will be released to the public at a later date. DATE RANGE COMMENTS: Collection
+                    ongoing
+                </gco:CharacterString>
+            </gmd:abstract>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Bill McDowell, Rich Brereton</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>William McDowell</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:organisationName>
+                        <gco:CharacterString>Luquillo Critical Zone Observatory</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:positionName>
+                        <gco:CharacterString>INVESTIGATOR.</gco:CharacterString>
+                    </gmd:positionName>
+                    <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                            <gmd:address>
+                                <gmd:CI_Address>
+                                    <gmd:electronicMailAddress>
+                                        <gco:CharacterString>Bill.McDowell@unh.edu</gco:CharacterString>
+                                    </gmd:electronicMailAddress>
+                                </gmd:CI_Address>
+                            </gmd:address>
+                        </gmd:CI_Contact>
+                    </gmd:contactInfo>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Rich Brereton</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:organisationName>
+                        <gco:CharacterString>Luquillo Critical Zone Observatory</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:positionName>
+                        <gco:CharacterString>GRAD STUDENT.</gco:CharacterString>
+                    </gmd:positionName>
+                    <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                            <gmd:address>
+                                <gmd:CI_Address>
+                                    <gmd:electronicMailAddress>
+                                        <gco:CharacterString>rich.brereton@unh.edu</gco:CharacterString>
+                                    </gmd:electronicMailAddress>
+                                </gmd:CI_Address>
+                            </gmd:address>
+                        </gmd:CI_Contact>
+                    </gmd:contactInfo>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Geoff Schwaner</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:organisationName>
+                        <gco:CharacterString>Luquillo Critical Zone Observatory</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:positionName>
+                        <gco:CharacterString>STAFF. Field Technician</gco:CharacterString>
+                    </gmd:positionName>
+                    <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                            <gmd:address>
+                                <gmd:CI_Address>
+                                    <gmd:electronicMailAddress>
+                                        <gco:CharacterString>gwj4@wildcats.unh.edu</gco:CharacterString>
+                                    </gmd:electronicMailAddress>
+                                </gmd:CI_Address>
+                            </gmd:address>
+                        </gmd:CI_Contact>
+                    </gmd:contactInfo>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Miguel Leon; leonmi@sas.upenn.edu</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="pointOfContact">pointOfContact
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Hydrology</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Water Chemistry</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115"
+                                                codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                                codeListValue="discipline">discipline
+                        </gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Groundwater</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>well</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Temperature</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>pH</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Specific Conductance</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Groundwater Depth</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>LDO%</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>LDO</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>BP</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Nitrate</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Groundwater Chemistry</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Groundwater Depth</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115"
+                                                codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                                codeListValue="theme">theme
+                        </gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Temperature</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>pH</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Specific Conductance</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Groundwater Depth</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>LDO%</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>LDO</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>BP</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Nitrate</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115"
+                                                codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                                codeListValue="theme">theme
+                        </gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Icacos/Blanco watersheds</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Rio Blanco</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115"
+                                                codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                                codeListValue="place">place
+                        </gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>CZO DATA USE POLICY. DRAFT v.0.3.5. SUMMARY VERSION. For full details, see
+                            http://criticalzone.org/national/data/access-czo-data-1national/ (1) USE OUR DATA FREELY.
+                            All CZO Data Products, except those labelled "Private", are released to the public and may
+                            be freely used under the condition that you give acknowledgement. Non-CZO data products —
+                            like those produced by USGS or NOAA — have their own use policies, which should be followed.
+                            (2) GIVE PROPER ACKNOWLEDGEMENT. Publications, models and data products that make use of
+                            these datasets must include proper acknowledgement. (3) LET US KNOW HOW YOU WILL USE THE
+                            DATA. The dataset creators would appreciate hearing of any plans to use the dataset.
+                        </gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:language>
+                <gco:CharacterString>en</gco:CharacterString>
+            </gmd:language>
+            <gmd:topicCategory>
+                <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+            </gmd:topicCategory>
+            <gmd:extent>
+                <gmd:EX_Extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-65.78885</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-65.785928</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>18.275085</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>18.29241</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="Temporal">
+                                    <gml:beginPosition>2014-03-09</gml:beginPosition>
+                                    <gml:endPosition>2014-06-16</gml:endPosition>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_Extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:transferOptions>
+                <gmd:MD_DigitalTransferOptions>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>http://criticalzone.org/national/data/dataset/3642/</gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>Icacos/Blanco watersheds - Groundwater Chemistry, Groundwater Depth
+                                    (2014)
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset (aggregate)</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="information">information
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I&#45;03Hydrolab.csv</gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>Icacos\Blanco I&#45;3 &#45; Groundwater chemistry
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I&#45;09Hydrolab.csv</gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>Icacos\Blanco I&#45;9 &#45; Groundwater chemistry
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>http://www.sas.upenn.edu/lczodata/sites/www.sas.upenn.edu.lczodata/files/I&#45;10Hydrolab.csv</gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>Icacos\Blanco I&#45;10 &#45; Groundwater chemistry
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    http://www.sas.upenn.edu/lczodata/content/icacos&#45;groundwater&#45;monitoring
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>Icacos\Blanco &#45; Groundwater chemistry graphs
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                </gmd:MD_DigitalTransferOptions>
+            </gmd:transferOptions>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>

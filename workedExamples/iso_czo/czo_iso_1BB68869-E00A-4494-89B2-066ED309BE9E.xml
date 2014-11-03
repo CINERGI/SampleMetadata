@@ -1,1 +1,768 @@
-<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink">	<gmd:fileIdentifier>		<gco:CharacterString>{119b7fea-c354-3a08-8f5c-1b46c3accabc}</gco:CharacterString>	</gmd:fileIdentifier>	<gmd:language>		<gco:CharacterString>en</gco:CharacterString>	</gmd:language>	<gmd:hierarchyLevel>		<gmd:MD_ScopeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>	</gmd:hierarchyLevel>	<gmd:contact>		<gmd:CI_ResponsibleParty>			<gmd:organisationName>				<gco:CharacterString>Sierra Critical Zone Observatory </gco:CharacterString>			</gmd:organisationName>			<gmd:contactInfo>				<gmd:CI_Contact>					<gmd:address>						<gmd:CI_Address>							<gmd:electronicMailAddress>								<gco:CharacterString>xmeng@ucmerced.edu</gco:CharacterString>							</gmd:electronicMailAddress>							<gmd:electronicMailAddress>								<gco:CharacterString>rbales@ucmerced.edu</gco:CharacterString>							</gmd:electronicMailAddress>						</gmd:CI_Address>					</gmd:address>				</gmd:CI_Contact>			</gmd:contactInfo>			<gmd:role>				<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>			</gmd:role>		</gmd:CI_ResponsibleParty>	</gmd:contact>	<gmd:dateStamp>		<gco:Date>2014-09-14</gco:Date>	</gmd:dateStamp>	<gmd:metadataStandardName>		<gco:CharacterString>ISO 19139/19115 Metadata for Datasets</gco:CharacterString>	</gmd:metadataStandardName>	<gmd:metadataStandardVersion>		<gco:CharacterString>2003</gco:CharacterString>	</gmd:metadataStandardVersion>	<gmd:dataSetURI>		<gco:CharacterString>http://criticalzone.org/national/data/dataset/2596</gco:CharacterString>	</gmd:dataSetURI>	<gmd:referenceSystemInfo>		<gmd:MD_ReferenceSystem>			<gmd:referenceSystemIdentifier>				<gmd:RS_Identifier>					<gmd:code>						<gco:CharacterString>4326</gco:CharacterString>					</gmd:code>				</gmd:RS_Identifier>			</gmd:referenceSystemIdentifier>		</gmd:MD_ReferenceSystem>	</gmd:referenceSystemInfo>	<gmd:identificationInfo>		<gmd:MD_DataIdentification>			<gmd:citation>				<gmd:CI_Citation>					<gmd:title>						<gco:CharacterString>Providence, Upper Met, South aspect - Soil Moisture, Soil Temperature, Snow Depth, Air Temperature (2008-2012)</gco:CharacterString>					</gmd:title>										<gmd:date>						<gmd:CI_Date>							<gmd:date>								<gco:Date>2014-09-14</gco:Date>							</gmd:date>							<gmd:dateType>								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>							</gmd:dateType>						</gmd:CI_Date>					</gmd:date>										<gmd:date>						<gmd:CI_Date>							<gmd:date>								<gco:Date>2014-09-14</gco:Date>							</gmd:date>							<gmd:dateType>								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>							</gmd:dateType>						</gmd:CI_Date>					</gmd:date>					<gmd:date>						<gmd:CI_Date>							<gmd:date>								<gco:Date>2013-05-23</gco:Date>							</gmd:date>							<gmd:dateType>								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>							</gmd:dateType>						</gmd:CI_Date>					</gmd:date>																														<gmd:otherCitationDetails>						<gco:CharacterString>Bales, R. et al., 2012, Sierra Nevada San Joaquin Hydrologic Observatory, Level 1 data. (https://eng.ucmerced.edu/snsjho/)</gco:CharacterString>					</gmd:otherCitationDetails>									</gmd:CI_Citation>			</gmd:citation>			<gmd:abstract>				<gco:CharacterString>								  				Snow depth, soil moisture and soil temperature are measured at the upper Providence meteorological site, from a location with a south facing aspect, using a Campbell Scientific logger to control peripheral devices. Snow depth is measured at 5 nodes in the open, at the drip edge and under canopies of an incense&#45;cedar and white fir tree. Soil moisture and temperature are measured at 10, 30, 60, and 90 cm depths coincident with the snow depth nodes. A 10 watt solar panel provides power for monitoring at 10 minute intervals. Data processing compresses to hourly values. The upper Providence meteorological site (approximately 1980 m) is located within the Providence subcatchment P303. 				COMMENTS: Soil volumetric water content (VWC) and soil temperature measured using Decagon Devices ECHO&#45;TM at depths of 10, 30, 60, an 90 cm below the mineral soil surface. Sensor now equivalent to 5TM, http://www.decagon.com/soil&#45;moisture&#45;sensors/Distance to snow/soil surface and air temperature measured with Judd Communications ultrasonic depth sensor, using analog control. http://www.juddcom.com/Data control and storage on Campbell Scientific CR1000 datalogger, using AM16/32B multiplexer. http://www.campbellsci.comProgram for data acquisition are located on UC Merced&#45;SNRI digital library. https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/Flat_Cluster/Programs 				 								 				 </gco:CharacterString>			</gmd:abstract>						<gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Roger Bales, Matthew Meadows, Xiande Meng</gco:CharacterString>					</gmd:individualName>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact>			<gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Roger Bales</gco:CharacterString>					</gmd:individualName>					<gmd:organisationName>						<gco:CharacterString>Sierra Critical Zone Observatory</gco:CharacterString>					</gmd:organisationName>					<gmd:positionName>						<gco:CharacterString>INVESTIGATOR, Lead-PI. </gco:CharacterString>					</gmd:positionName>					<gmd:contactInfo>						<gmd:CI_Contact>														<gmd:address>								<gmd:CI_Address>																											<gmd:electronicMailAddress>										<gco:CharacterString>rbales@ucmerced.edu</gco:CharacterString>									</gmd:electronicMailAddress>								</gmd:CI_Address> 							</gmd:address>						</gmd:CI_Contact>					</gmd:contactInfo>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact><gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Matt Meadows</gco:CharacterString>					</gmd:individualName>					<gmd:organisationName>						<gco:CharacterString>Sierra Critical Zone Observatory</gco:CharacterString>					</gmd:organisationName>					<gmd:positionName>						<gco:CharacterString>STAFF, Field Manager. </gco:CharacterString>					</gmd:positionName>					<gmd:contactInfo>						<gmd:CI_Contact>														<gmd:address>								<gmd:CI_Address>																											<gmd:electronicMailAddress>										<gco:CharacterString>mmeadows@ucmerced.edu</gco:CharacterString>									</gmd:electronicMailAddress>								</gmd:CI_Address> 							</gmd:address>						</gmd:CI_Contact>					</gmd:contactInfo>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact><gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Xiande Meng</gco:CharacterString>					</gmd:individualName>					<gmd:organisationName>						<gco:CharacterString>Sierra Critical Zone Observatory</gco:CharacterString>					</gmd:organisationName>					<gmd:positionName>						<gco:CharacterString>STAFF, Data Manager. </gco:CharacterString>					</gmd:positionName>					<gmd:contactInfo>						<gmd:CI_Contact>														<gmd:address>								<gmd:CI_Address>																											<gmd:electronicMailAddress>										<gco:CharacterString>xmeng@ucmerced.edu</gco:CharacterString>									</gmd:electronicMailAddress>								</gmd:CI_Address> 							</gmd:address>						</gmd:CI_Contact>					</gmd:contactInfo>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact>			<gmd:pointOfContact>				<gmd:CI_ResponsibleParty>					<gmd:individualName>						<gco:CharacterString>Xiande Meng, xmeng@ucmerced.edu</gco:CharacterString>					</gmd:individualName>					<gmd:role>						<gmd:CI_RoleCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>					</gmd:role>				</gmd:CI_ResponsibleParty>			</gmd:pointOfContact>			<gmd:descriptiveKeywords>				<gmd:MD_Keywords>					<gmd:keyword>						<gco:CharacterString>Hydrology</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Climatology / Meteorology</gco:CharacterString>					</gmd:keyword>										<gmd:type>						<gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="discipline">discipline</gmd:MD_KeywordTypeCode>					</gmd:type>				</gmd:MD_Keywords>			</gmd:descriptiveKeywords>			<gmd:descriptiveKeywords>				<gmd:MD_Keywords>					<gmd:keyword>						<gco:CharacterString>Water balance</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>snow depth</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>soil moisture</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>soil temperature</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>air temperature</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>instrument clusters</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>aspect</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>south</gco:CharacterString>					</gmd:keyword>																							<gmd:keyword>						<gco:CharacterString>Soil Moisture</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Soil Temperature</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Snow Depth</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Air Temperature</gco:CharacterString>					</gmd:keyword>										<gmd:type>						<gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>					</gmd:type>				</gmd:MD_Keywords>			</gmd:descriptiveKeywords>				<gmd:descriptiveKeywords>				<gmd:MD_Keywords>					<gmd:keyword>						<gco:CharacterString>Air Temperature</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Snow Depth</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Soil Moisture</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Soil Temperature</gco:CharacterString>					</gmd:keyword>										<gmd:type>						<gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>					</gmd:type>				</gmd:MD_Keywords>			</gmd:descriptiveKeywords>						<gmd:descriptiveKeywords>				<gmd:MD_Keywords>					<gmd:keyword>						<gco:CharacterString>Providence, Upper Met, South aspect</gco:CharacterString>					</gmd:keyword>					<gmd:keyword>						<gco:CharacterString>Providence Creek Subcatchment P303</gco:CharacterString>					</gmd:keyword>										<gmd:type>						<gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place">place</gmd:MD_KeywordTypeCode>					</gmd:type>				</gmd:MD_Keywords>			</gmd:descriptiveKeywords>								<gmd:resourceConstraints>				<gmd:MD_LegalConstraints>					<gmd:otherConstraints>						<gco:CharacterString> CZO DATA USE POLICY.  DRAFT v.0.3.5. SUMMARY VERSION.  For full details, see http://criticalzone.org/national/data/access-czo-data-1national/  (1) USE OUR DATA FREELY. All CZO Data Products, except those labelled "Private", are released to the public and may be freely used under the condition that you give acknowledgement. Non-CZO data products — like those produced by USGS or NOAA — have their own use policies, which should be followed. (2) GIVE PROPER ACKNOWLEDGEMENT. Publications, models and data products that make use of these datasets must include proper acknowledgement. (3) LET US KNOW HOW YOU WILL USE THE DATA. The dataset creators would appreciate hearing of any plans to use the dataset.						</gco:CharacterString>					</gmd:otherConstraints>				</gmd:MD_LegalConstraints>			</gmd:resourceConstraints>			<gmd:language>				<gco:CharacterString>en</gco:CharacterString>			</gmd:language>			<gmd:topicCategory>				<gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>			</gmd:topicCategory>			<gmd:extent>				<gmd:EX_Extent>					<gmd:geographicElement>						<gmd:EX_GeographicBoundingBox>							<gmd:westBoundLongitude>								<gco:Decimal>-119.1836023120</gco:Decimal>							</gmd:westBoundLongitude>							<gmd:eastBoundLongitude>								<gco:Decimal>-119.1836023120</gco:Decimal>							</gmd:eastBoundLongitude>							<gmd:southBoundLatitude>								<gco:Decimal>37.0607723233</gco:Decimal>							</gmd:southBoundLatitude>							<gmd:northBoundLatitude>								<gco:Decimal>37.0607723233</gco:Decimal>							</gmd:northBoundLatitude>						</gmd:EX_GeographicBoundingBox>					</gmd:geographicElement>					<gmd:temporalElement>						<gmd:EX_TemporalExtent>							<gmd:extent>								<gml:TimePeriod gml:id="Temporal">									<gml:beginPosition>2008-10-01</gml:beginPosition>									<gml:endPosition>2012-09-30</gml:endPosition>								</gml:TimePeriod>							</gmd:extent>						</gmd:EX_TemporalExtent>					</gmd:temporalElement>				</gmd:EX_Extent>			</gmd:extent>					</gmd:MD_DataIdentification>	</gmd:identificationInfo>	<gmd:distributionInfo>		<gmd:MD_Distribution>			<gmd:transferOptions>				<gmd:MD_DigitalTransferOptions>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>http://criticalzone.org/national/data/dataset/2596/</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>Providence, Upper Met, South aspect - Soil Moisture, Soil Temperature, Snow Depth, Air Temperature (2008-2012)</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset (aggregate)</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2008.dat</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2008, 30 min, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2009.dat</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2009, 30 min, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2010.dat</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2010, 30 min, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_soil_snow_wy2011.dat</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2011, 30 min, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_soil_snow_wy2012.dat</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2012, 30 min, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2008_UpMetS_Soil_Snow_hourly.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2008, hourly, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2009_UpMetS_Soil_Snow_hourly.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2009, hourly, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2010_UpMetS_soil_snow_hourly.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2010, hourly, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2011_UpMetS_soil_snow_hourly.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2011, hourly, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2012_UpMetS_soil_snow_hourly.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2012, hourly, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2008_UpMetS_Soil_snow_daily.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2008, daily, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2009_UpMetS_Soil_snow_daily.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2009, daily, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2010_UpMetS_soil_snow_daily.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2010, daily, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2011_UpMetS_soil_snow_daily.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2011, daily, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>					<gmd:onLine>						<gmd:CI_OnlineResource>							<gmd:linkage>								<gmd:URL>https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2012_UpMetS_soil_snow_daily.csv</gmd:URL>							</gmd:linkage>							<gmd:name>								<gco:CharacterString>South facing &#45; WY 2012, daily, gap&#45;filled</gco:CharacterString>							</gmd:name>														<gmd:description>								<gco:CharacterString>CZO Dataset Component</gco:CharacterString>							</gmd:description>							<gmd:function>								<gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115" codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download">download</gmd:CI_OnLineFunctionCode>							</gmd:function>						</gmd:CI_OnlineResource>					</gmd:onLine>																																		</gmd:MD_DigitalTransferOptions>			</gmd:transferOptions>		</gmd:MD_Distribution>	</gmd:distributionInfo>		</gmd:MD_Metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco"
+                 xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2"
+                 xmlns:xlink="http://www.w3.org/1999/xlink">
+    <gmd:fileIdentifier>
+        <gco:CharacterString>{119b7fea-c354-3a08-8f5c-1b46c3accabc}</gco:CharacterString>
+    </gmd:fileIdentifier>
+    <gmd:language>
+        <gco:CharacterString>en</gco:CharacterString>
+    </gmd:language>
+    <gmd:hierarchyLevel>
+        <gmd:MD_ScopeCode codeSpace="ISOTC211/19115"
+                          codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
+                          codeListValue="dataset">dataset
+        </gmd:MD_ScopeCode>
+    </gmd:hierarchyLevel>
+    <gmd:contact>
+        <gmd:CI_ResponsibleParty>
+            <gmd:organisationName>
+                <gco:CharacterString>Sierra Critical Zone Observatory</gco:CharacterString>
+            </gmd:organisationName>
+            <gmd:contactInfo>
+                <gmd:CI_Contact>
+                    <gmd:address>
+                        <gmd:CI_Address>
+                            <gmd:electronicMailAddress>
+                                <gco:CharacterString>xmeng@ucmerced.edu</gco:CharacterString>
+                            </gmd:electronicMailAddress>
+                            <gmd:electronicMailAddress>
+                                <gco:CharacterString>rbales@ucmerced.edu</gco:CharacterString>
+                            </gmd:electronicMailAddress>
+                        </gmd:CI_Address>
+                    </gmd:address>
+                </gmd:CI_Contact>
+            </gmd:contactInfo>
+            <gmd:role>
+                <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                 codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                 codeListValue="pointOfContact">pointOfContact
+                </gmd:CI_RoleCode>
+            </gmd:role>
+        </gmd:CI_ResponsibleParty>
+    </gmd:contact>
+    <gmd:dateStamp>
+        <gco:Date>2014-09-14</gco:Date>
+    </gmd:dateStamp>
+    <gmd:metadataStandardName>
+        <gco:CharacterString>ISO 19139/19115 Metadata for Datasets</gco:CharacterString>
+    </gmd:metadataStandardName>
+    <gmd:metadataStandardVersion>
+        <gco:CharacterString>2003</gco:CharacterString>
+    </gmd:metadataStandardVersion>
+    <gmd:dataSetURI>
+        <gco:CharacterString>http://criticalzone.org/national/data/dataset/2596</gco:CharacterString>
+    </gmd:dataSetURI>
+    <gmd:referenceSystemInfo>
+        <gmd:MD_ReferenceSystem>
+            <gmd:referenceSystemIdentifier>
+                <gmd:RS_Identifier>
+                    <gmd:code>
+                        <gco:CharacterString>4326</gco:CharacterString>
+                    </gmd:code>
+                </gmd:RS_Identifier>
+            </gmd:referenceSystemIdentifier>
+        </gmd:MD_ReferenceSystem>
+    </gmd:referenceSystemInfo>
+    <gmd:identificationInfo>
+        <gmd:MD_DataIdentification>
+            <gmd:citation>
+                <gmd:CI_Citation>
+                    <gmd:title>
+                        <gco:CharacterString>Providence, Upper Met, South aspect - Soil Moisture, Soil Temperature, Snow
+                            Depth, Air Temperature (2008-2012)
+                        </gco:CharacterString>
+                    </gmd:title>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2014-09-14</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeSpace="ISOTC211/19115"
+                                                     codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+                                                     codeListValue="publication">publication
+                                </gmd:CI_DateTypeCode>
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2014-09-14</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeSpace="ISOTC211/19115"
+                                                     codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+                                                     codeListValue="revision">revision
+                                </gmd:CI_DateTypeCode>
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:date>
+                        <gmd:CI_Date>
+                            <gmd:date>
+                                <gco:Date>2013-05-23</gco:Date>
+                            </gmd:date>
+                            <gmd:dateType>
+                                <gmd:CI_DateTypeCode codeSpace="ISOTC211/19115"
+                                                     codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
+                                                     codeListValue="creation">creation
+                                </gmd:CI_DateTypeCode>
+                            </gmd:dateType>
+                        </gmd:CI_Date>
+                    </gmd:date>
+                    <gmd:otherCitationDetails>
+                        <gco:CharacterString>Bales, R. et al., 2012, Sierra Nevada San Joaquin Hydrologic Observatory,
+                            Level 1 data. (https://eng.ucmerced.edu/snsjho/)
+                        </gco:CharacterString>
+                    </gmd:otherCitationDetails>
+                </gmd:CI_Citation>
+            </gmd:citation>
+            <gmd:abstract>
+                <gco:CharacterString>Snow depth, soil moisture and soil temperature are measured at the upper Providence
+                    meteorological site, from a location with a south facing aspect, using a Campbell Scientific logger
+                    to control peripheral devices. Snow depth is measured at 5 nodes in the open, at the drip edge and
+                    under canopies of an incense&#45;cedar and white fir tree. Soil moisture and temperature are
+                    measured at 10, 30, 60, and 90 cm depths coincident with the snow depth nodes. A 10 watt solar panel
+                    provides power for monitoring at 10 minute intervals. Data processing compresses to hourly values.
+                    The upper Providence meteorological site (approximately 1980 m) is located within the Providence
+                    subcatchment P303. COMMENTS: Soil volumetric water content (VWC) and soil temperature measured using
+                    Decagon Devices ECHO&#45;TM at depths of 10, 30, 60, an 90 cm below the mineral soil surface. Sensor
+                    now equivalent to 5TM, http://www.decagon.com/soil&#45;moisture&#45;sensors/Distance to snow/soil
+                    surface and air temperature measured with Judd Communications ultrasonic depth sensor, using analog
+                    control. http://www.juddcom.com/Data control and storage on Campbell Scientific CR1000 datalogger,
+                    using AM16/32B multiplexer. http://www.campbellsci.comProgram for data acquisition are located on UC
+                    Merced&#45;SNRI digital library.
+                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/Flat_Cluster/Programs
+                </gco:CharacterString>
+            </gmd:abstract>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Roger Bales, Matthew Meadows, Xiande Meng</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Roger Bales</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:organisationName>
+                        <gco:CharacterString>Sierra Critical Zone Observatory</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:positionName>
+                        <gco:CharacterString>INVESTIGATOR, Lead-PI.</gco:CharacterString>
+                    </gmd:positionName>
+                    <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                            <gmd:address>
+                                <gmd:CI_Address>
+                                    <gmd:electronicMailAddress>
+                                        <gco:CharacterString>rbales@ucmerced.edu</gco:CharacterString>
+                                    </gmd:electronicMailAddress>
+                                </gmd:CI_Address>
+                            </gmd:address>
+                        </gmd:CI_Contact>
+                    </gmd:contactInfo>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Matt Meadows</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:organisationName>
+                        <gco:CharacterString>Sierra Critical Zone Observatory</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:positionName>
+                        <gco:CharacterString>STAFF, Field Manager.</gco:CharacterString>
+                    </gmd:positionName>
+                    <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                            <gmd:address>
+                                <gmd:CI_Address>
+                                    <gmd:electronicMailAddress>
+                                        <gco:CharacterString>mmeadows@ucmerced.edu</gco:CharacterString>
+                                    </gmd:electronicMailAddress>
+                                </gmd:CI_Address>
+                            </gmd:address>
+                        </gmd:CI_Contact>
+                    </gmd:contactInfo>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Xiande Meng</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:organisationName>
+                        <gco:CharacterString>Sierra Critical Zone Observatory</gco:CharacterString>
+                    </gmd:organisationName>
+                    <gmd:positionName>
+                        <gco:CharacterString>STAFF, Data Manager.</gco:CharacterString>
+                    </gmd:positionName>
+                    <gmd:contactInfo>
+                        <gmd:CI_Contact>
+                            <gmd:address>
+                                <gmd:CI_Address>
+                                    <gmd:electronicMailAddress>
+                                        <gco:CharacterString>xmeng@ucmerced.edu</gco:CharacterString>
+                                    </gmd:electronicMailAddress>
+                                </gmd:CI_Address>
+                            </gmd:address>
+                        </gmd:CI_Contact>
+                    </gmd:contactInfo>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="author">author
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:pointOfContact>
+                <gmd:CI_ResponsibleParty>
+                    <gmd:individualName>
+                        <gco:CharacterString>Xiande Meng, xmeng@ucmerced.edu</gco:CharacterString>
+                    </gmd:individualName>
+                    <gmd:role>
+                        <gmd:CI_RoleCode codeSpace="ISOTC211/19115"
+                                         codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
+                                         codeListValue="pointOfContact">pointOfContact
+                        </gmd:CI_RoleCode>
+                    </gmd:role>
+                </gmd:CI_ResponsibleParty>
+            </gmd:pointOfContact>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Hydrology</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Climatology / Meteorology</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115"
+                                                codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                                codeListValue="discipline">discipline
+                        </gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Water balance</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>snow depth</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>soil moisture</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>soil temperature</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>air temperature</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>instrument clusters</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>aspect</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>south</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Soil Moisture</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Soil Temperature</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Snow Depth</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Air Temperature</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115"
+                                                codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                                codeListValue="theme">theme
+                        </gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Air Temperature</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Snow Depth</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Soil Moisture</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Soil Temperature</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115"
+                                                codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                                codeListValue="theme">theme
+                        </gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:descriptiveKeywords>
+                <gmd:MD_Keywords>
+                    <gmd:keyword>
+                        <gco:CharacterString>Providence, Upper Met, South aspect</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:keyword>
+                        <gco:CharacterString>Providence Creek Subcatchment P303</gco:CharacterString>
+                    </gmd:keyword>
+                    <gmd:type>
+                        <gmd:MD_KeywordTypeCode codeSpace="ISOTC211/19115"
+                                                codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode"
+                                                codeListValue="place">place
+                        </gmd:MD_KeywordTypeCode>
+                    </gmd:type>
+                </gmd:MD_Keywords>
+            </gmd:descriptiveKeywords>
+            <gmd:resourceConstraints>
+                <gmd:MD_LegalConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>CZO DATA USE POLICY. DRAFT v.0.3.5. SUMMARY VERSION. For full details, see
+                            http://criticalzone.org/national/data/access-czo-data-1national/ (1) USE OUR DATA FREELY.
+                            All CZO Data Products, except those labelled "Private", are released to the public and may
+                            be freely used under the condition that you give acknowledgement. Non-CZO data products —
+                            like those produced by USGS or NOAA — have their own use policies, which should be followed.
+                            (2) GIVE PROPER ACKNOWLEDGEMENT. Publications, models and data products that make use of
+                            these datasets must include proper acknowledgement. (3) LET US KNOW HOW YOU WILL USE THE
+                            DATA. The dataset creators would appreciate hearing of any plans to use the dataset.
+                        </gco:CharacterString>
+                    </gmd:otherConstraints>
+                </gmd:MD_LegalConstraints>
+            </gmd:resourceConstraints>
+            <gmd:language>
+                <gco:CharacterString>en</gco:CharacterString>
+            </gmd:language>
+            <gmd:topicCategory>
+                <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+            </gmd:topicCategory>
+            <gmd:extent>
+                <gmd:EX_Extent>
+                    <gmd:geographicElement>
+                        <gmd:EX_GeographicBoundingBox>
+                            <gmd:westBoundLongitude>
+                                <gco:Decimal>-119.1836023120</gco:Decimal>
+                            </gmd:westBoundLongitude>
+                            <gmd:eastBoundLongitude>
+                                <gco:Decimal>-119.1836023120</gco:Decimal>
+                            </gmd:eastBoundLongitude>
+                            <gmd:southBoundLatitude>
+                                <gco:Decimal>37.0607723233</gco:Decimal>
+                            </gmd:southBoundLatitude>
+                            <gmd:northBoundLatitude>
+                                <gco:Decimal>37.0607723233</gco:Decimal>
+                            </gmd:northBoundLatitude>
+                        </gmd:EX_GeographicBoundingBox>
+                    </gmd:geographicElement>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="Temporal">
+                                    <gml:beginPosition>2008-10-01</gml:beginPosition>
+                                    <gml:endPosition>2012-09-30</gml:endPosition>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                </gmd:EX_Extent>
+            </gmd:extent>
+        </gmd:MD_DataIdentification>
+    </gmd:identificationInfo>
+    <gmd:distributionInfo>
+        <gmd:MD_Distribution>
+            <gmd:transferOptions>
+                <gmd:MD_DigitalTransferOptions>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>http://criticalzone.org/national/data/dataset/2596/</gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>Providence, Upper Met, South aspect - Soil Moisture, Soil
+                                    Temperature, Snow Depth, Air Temperature (2008-2012)
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset (aggregate)</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="information">information
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2008.dat
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2008, 30 min, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2009.dat
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2009, 30 min, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_Soil_snow_wy2010.dat
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2010, 30 min, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_soil_snow_wy2011.dat
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2011, 30 min, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/gap_filled_UpMetS_soil_snow_wy2012.dat
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2012, 30 min, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2008_UpMetS_Soil_Snow_hourly.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2008, hourly, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2009_UpMetS_Soil_Snow_hourly.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2009, hourly, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2010_UpMetS_soil_snow_hourly.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2010, hourly, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2011_UpMetS_soil_snow_hourly.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2011, hourly, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2012_UpMetS_soil_snow_hourly.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2012, hourly, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2008_UpMetS_Soil_snow_daily.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2008, daily, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2009_UpMetS_Soil_snow_daily.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2009, daily, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2010_UpMetS_soil_snow_daily.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2010, daily, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2011_UpMetS_soil_snow_daily.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2011, daily, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                    <gmd:onLine>
+                        <gmd:CI_OnlineResource>
+                            <gmd:linkage>
+                                <gmd:URL>
+                                    https://eng.ucmerced.edu/snsjho/files/MHWG/Field/Southern_Sierra_CZO_KREW/Providence_Creek_Upper_Met/Water_Balance_Instrument_Cluster/South_Cluster/Level_2/WY_2012_UpMetS_soil_snow_daily.csv
+                                </gmd:URL>
+                            </gmd:linkage>
+                            <gmd:name>
+                                <gco:CharacterString>South facing &#45; WY 2012, daily, gap&#45;filled
+                                </gco:CharacterString>
+                            </gmd:name>
+                            <gmd:description>
+                                <gco:CharacterString>CZO Dataset Component</gco:CharacterString>
+                            </gmd:description>
+                            <gmd:function>
+                                <gmd:CI_OnLineFunctionCode codeSpace="ISOTC211/19115"
+                                                           codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode"
+                                                           codeListValue="download">download
+                                </gmd:CI_OnLineFunctionCode>
+                            </gmd:function>
+                        </gmd:CI_OnlineResource>
+                    </gmd:onLine>
+                </gmd:MD_DigitalTransferOptions>
+            </gmd:transferOptions>
+        </gmd:MD_Distribution>
+    </gmd:distributionInfo>
+</gmd:MD_Metadata>
